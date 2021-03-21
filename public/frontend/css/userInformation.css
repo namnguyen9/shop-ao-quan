@@ -1,0 +1,26 @@
+#data-profile table {
+    width: 96%;
+    margin-top: 5%;
+    margin-left: 10px;
+}
+
+#data-profile table th {
+    width: 30%;
+    padding: 3%;
+    font-size: 18px;
+}
+
+#data-profile table td {
+    text-align: left;
+    font-size: 17px;
+}
+
+#data-profile table td input {
+    border-radius: 4px;
+    padding: 6px;
+}
+
+#data-profile table td input[type=date] {
+    padding: 6px;
+    padding-left: 9%;
+}

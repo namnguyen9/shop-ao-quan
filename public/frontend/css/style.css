@@ -1,0 +1,21 @@
+#form-password {
+    text-align: center;
+    padding: 5em;
+}
+
+#form-password input {
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+
+#form-password a {
+    margin: 20px;
+}
+
+#form-password label {
+    font-size: 20px;
+}
